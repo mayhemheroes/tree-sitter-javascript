@@ -1,0 +1,6 @@
+project: tree-sitter-javascript
+target: parse
+cmds:
+    - cmd: /parse
+testsuite:
+    - file://examples
